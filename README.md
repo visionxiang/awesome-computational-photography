@@ -17,7 +17,7 @@ We will keep updating it.
 - [Image Matching](#Image-Matching)
 - [Image Alignment](#Image-Alignment)
 - [Image Stitching](#Image-Stitching)
-- [Color Harmonization](#Color Harmonization)
+- [Color Harmonization](#Color-Harmonization)
 - [Stabilization](#Stabilization)
 - [Appendix](#Appendix)
 
