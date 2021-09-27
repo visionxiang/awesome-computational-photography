@@ -117,6 +117,7 @@ Part curated paper list for deep learning-based image matching.
 
 | **Year** | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+|   2021   |  arXiv05 | Attention for Image Registration (AiR): an unsupervised Transformer approach | Zihao Wang, Hervé Delingette | [Paper](https://arxiv.org/abs/2105.02282)/Code
 |   2021   |   CVPR   | Learning-based Image Registration with Meta-Regularization   | Ebrahim Al Safadi, Xubo Song                                 | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Safadi_Learning-Based_Image_Registration_With_Meta-Regularization_CVPR_2021_paper.pdf)/[Code]() |
 |   2020   |   TIP    | Cross-Weather Image Alignment via Latent Generative Model with Intensity Consistency | Huabing Zhou, Jiayi Ma, et al.                               | Paper/Code                                                   |
 |   2020   |   TIP    | Boosting Structure Consistency for Multispectral and Multimodal Image Registration | Si-Yuan Cao, Hui-Liang Shen, Shu-Jie Chen, Chunguang Li      | Paper/Code                                                   |
