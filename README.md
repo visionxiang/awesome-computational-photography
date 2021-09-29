@@ -18,6 +18,7 @@ We will keep updating it.
 - [Image Alignment](#Image-Alignment)
 - [Image Stitching](#Image-Stitching)
 - [Color Harmonization](#Color-Harmonization)
+- [Low-Light Enhancement](#Low-Light-Enhancement)
 - [Stabilization](#Stabilization)
 - [Appendix](#Appendix)
 
@@ -237,6 +238,11 @@ Part curated paper list for deep learning-based image matching.
 | :------: | :------: | :----------------------------------- | :--------------------------------- | :--------- |
 |   2021   |   ICCV   | Image Harmonization With Transformer | Zonghui Guo, Dongsheng Guo, et al. | Paper/Code |
 
+
+## Low-Light Enhancement
+
+| **Year** | **Pub.** | **Title**                            | **Author**                         | **Links**  |
+2021 | arXiv04 | Low-Light Image and Video Enhancement Using Deep Learning: A Survey | Chongyi Li, Chen Change Loy, et al. | [Paper](https://arxiv.org/abs/2104.10729)/[Proj](https://github.com/Li-Chongyi/Lighting-the-Darkness-in-the-Deep-Learning-Era-Open) 
 
 
 ## Stabilization
