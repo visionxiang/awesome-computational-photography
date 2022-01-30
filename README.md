@@ -4,7 +4,7 @@ A curated list of awesome resources for topics related to computational photogra
 
 We will keep updating it. 
 
-:heavy_exclamation_mark:Updated 2021-09-20.
+:heavy_exclamation_mark:Updated 2022-01.
 
 
 
@@ -20,6 +20,7 @@ We will keep updating it.
 - [Color Harmonization](#Color-Harmonization)
 - [Low-Light Enhancement](#Low-Light-Enhancement)
 - [Stabilization](#Stabilization)
+- [Beyond](#Beyond)
 - [Appendix](#Appendix)
 
 --------------------------------------------------------------------------------------
@@ -265,6 +266,14 @@ Part curated paper list for deep learning-based image matching.
 |   2018   |   ECCV   | Selfie Video Stabilization                                   |                                                              | Paper/Code                                                   |
 |   2018   |   CGF    | Deep Video Stabilization Using Adversarial Networks          | Sen-Zhe Xu, Jun Hu, et al.                                   | [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13566)/Code |
 
+
+
+## Beyond  
+
+| **Year** | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
+| :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+2021 | arXiv10 | InfinityGAN: Towards Infinite-Pixel Image Synthesis | C. Lin, Ming-Hsuan Yang, et al. | [Paper](https://arxiv.org/abs/2104.03963)/[Code](https://hubert0527.github.io/infinityGAN/)  
+2021 | PAMI | CrossNet++: Cross-Scale Large-Parallax Warping for Reference-Based Super-Resolution | Yang Tan, et al. | [Paper](https://ieeexplore.ieee.org/document/9099445?source=tocalert&dld=Z21haWwuY29t)/Code
 
 
 ## Appendix
