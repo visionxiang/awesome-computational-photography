@@ -4,7 +4,7 @@ A curated list of awesome resources for topics related to computational photogra
 
 We will keep updating it. 
 
-:heavy_exclamation_mark:Updated 2022-01.
+:heavy_exclamation_mark:Updated 2022-06.
 
 
 
@@ -31,8 +31,10 @@ We will keep updating it.
 
 | **Year** | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
-|   2022   |  CVPR  | Geometric Structure Preserving Warp for Natural Image Stitching | Peng Du, Jifeng Ning, et al. | Paper/Code
-|   2022   |  CVPR  | Automatic Color Image Stitching Using Quaternion Rank-1 Alignment | Jiaxue Li, Yicong Zhou | Paper/Code
+|   --     |  arXiv | Natural Image Stitching Using Depth Maps | Tianli Liao, Nan Li | [Paper](https://arxiv.org/pdf/2202.06276.pdf)/Code 
+|   --     |  arXiv | Pixel-wise Deep Image Stitching | Hyeokjun Kweon, et al. | [Paper](https://arxiv.org/abs/2112.06171)/Code
+|   2022   |  CVPR  | Geometric Structure Preserving Warp for Natural Image Stitching | Peng Du, Jifeng Ning, et al. | [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Du_Geometric_Structure_Preserving_Warp_for_Natural_Image_Stitching_CVPR_2022_paper.html)/[Code](https://github.com/flowerDuo/GES-GSP-Stitching) 
+|   2022   |  CVPR  | Automatic Color Image Stitching Using Quaternion Rank-1 Alignment | Jiaxue Li, Yicong Zhou | [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Automatic_Color_Image_Stitching_Using_Quaternion_Rank-1_Alignment_CVPR_2022_paper.html)/Code
 |   2022   |  CVPR  | Deep Rectangling for Image Stitching: A Learning Baseline | Lang Nie, Chunyu Lin, et al. | [Paper](https://arxiv.org/abs/2203.03831)/[Code](https://github.com/nie-lang/DeepRectangling)
 |   2021   |   ICCV   | Minimal Solutions for Panoramic Stitching Given Gravity Prior | Yaqing Ding, Daniel Barath, Zuzana Kukelova                  | [Paper](https://arxiv.org/abs/2012.00465)/Code               |
 |   2021   |   CVPR   | <span style="white-space:nowrap;">Leveraging Line-Point Consistence To Preserve Structures for Wide Parallax Image Stitching&emsp; </span> | <span style="white-space:nowrap;">Qi Jia, ZhengJun Li, et al.&emsp; </span> | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Jia_Leveraging_Line-Point_Consistence_To_Preserve_Structures_for_Wide_Parallax_Image_CVPR_2021_paper.pdf)/[Code](https://github.com/dut-media-lab/Image-Stitching) |
