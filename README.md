@@ -1,6 +1,6 @@
 # Computational Photography via Deep Learning
 
-A curated list of awesome resources for topics related to computational photography via deep learning, including but not limited to image mathing, image alignment/registration, image stitching and stabilization. 
+A curated list of awesome resources for topics related to computational photography via deep learning, including but not limited to image matching, image alignment/registration, image stitching and stabilization. 
 
 :heavy_exclamation_mark:Updated 2022-07.
 
