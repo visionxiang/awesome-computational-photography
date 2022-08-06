@@ -59,7 +59,7 @@ A curated list of awesome resources for topics related to computational photogra
 |   2021   |    PR    | Edge-guided Composition Network for Image Stitching          <br> <sub><sup>*Qinyan Dai, Faming Fang, Juncheng Li, Guixu Zhang, Aimin Zhou*</sup><sub>            | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320321002065)/Code |
 |   2021   |    PR    | Image stitching based on angle-consistent warping     <br> <sub><sup>*Yinqi Chen, Huicheng Zheng, Yiyan Ma, Zhiwei Yan*</sup><sub>      | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320321001801)/Code |
 |   2021   |   SPL    | End-to-End Image Stitching Network via Multi-Homography Estimation   <br> <sub><sup>*Dae-Young Song, et al.*</sup><sub>       | [Paper](https://ieeexplore.ieee.org/abstract/document/9393563)/Code |
-|   2021   |  NeuCom | Image stitching via deep homography estimation   <br> <sub><sup>*Qiang Zhao, et al.*</sup><sub>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221004859)/Code
+|   2021   |  NeuCom | Image stitching via deep homography estimation   <br> <sub><sup>*Qiang Zhao, Yike Ma, Chen Zhu, Chunfeng Yao, Bailan Feng, Feng Dai*</sup><sub>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221004859)/Code
 
 
 
