@@ -26,6 +26,14 @@ A curated list of awesome resources for topics related to computational photogra
 
 ## Image Stitching
 
+**2023**
+
+| **Year** | **Pub.** | **Title**       | **Links**                |
+| :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
+|   2023   |   TMM   | Natural Image Stitching With Layered Warping Constraint  <br> <sub><sup>*Zhihao Zhang; Xianqiang Yang; Chao Xu*</sup></sub> | Paper/Code
+
+
+
 **2022**
 
 | **Year** | **Pub.** | **Title**       | **Links**                |
