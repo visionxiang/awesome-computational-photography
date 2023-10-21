@@ -30,7 +30,8 @@ A curated list of awesome resources for topics related to computational photogra
 
 | **Year** | **Pub.** | **Title**       | **Links**                |
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
-|   2023   |   TMM   | Natural Image Stitching With Layered Warping Constraint  <br> <sub><sup>*Zhihao Zhang; Xianqiang Yang; Chao Xu*</sup></sub> | Paper/Code
+|   2023   |   CVPR  | A Large-Scale Homography Benchmark   <br> <sub><sup>*Daniel Barath, Dmytro Mishkin, Michal Polic, Wolfgang Förstner, Jiri Matas*</sup></sub> | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Barath_A_Large-Scale_Homography_Benchmark_CVPR_2023_paper.html)/[Code](https://github.com/danini/homography-benchmark)
+|   2023   |   TMM   | Natural Image Stitching With Layered Warping Constraint  <br> <sub><sup>*Zhihao Zhang; Xianqiang Yang; Chao Xu*</sup></sub> | [Paper](https://ieeexplore.ieee.org/abstract/document/9612024)/Code
 
 
 
