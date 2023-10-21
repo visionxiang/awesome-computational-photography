@@ -208,7 +208,7 @@ Part curated paper list for deep learning-based image matching.
 
 | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
 | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
-|   ECCV   | <span style="white-space:nowrap;">ECO-TR: Efficient Correspondences Finding Via Coarse-to-Fine <br>Refinement &emsp; </span> | <span style="white-space:nowrap;">Dongli Tan, Rongrong Ji, et al. </span> | Paper/Code                                                   | 
+|   ECCV   | <span style="white-space:nowrap;">ECO-TR: Efficient Correspondences Finding Via Coarse-to-Fine Refinement &emsp; </span> | <span style="white-space:nowrap;">Dongli Tan, Rongrong Ji, et al. </span> | Paper/Code                                                   | 
 |   AAAI   |  Guide Local Feature Matching by Overlap Estimation  | Ying Chen, Dihe Huang, et al. | [Paper](https://aaai-2022.virtualchair.net/poster_aaai7556)/[Code](https://github.com/AbyssGaze/OETR)
 
 
