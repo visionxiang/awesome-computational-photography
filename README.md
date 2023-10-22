@@ -31,6 +31,10 @@ A curated list of awesome resources for topics related to computational photogra
 | **Year** | **Pub.** | **Title**       | **Links**                |
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
 |   2023   |   CVPR  | A Large-Scale Homography Benchmark   <br> <sub><sup>*Daniel Barath, Dmytro Mishkin, Michal Polic, Wolfgang Förstner, Jiri Matas*</sup></sub> | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Barath_A_Large-Scale_Homography_Benchmark_CVPR_2023_paper.html)/[Code](https://github.com/danini/homography-benchmark)
+|   2023   |  CVPR   | Recurrent Homography Estimation Using Homography-Guided Image Warping and Focus Transformer   <br> <sub><sup>*Si-Yuan Cao, Runmin Zhang, Lun Luo, Beinan Yu, Zehua Sheng, Junwei Li, Hui-Liang Shen*</sup></sub> | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Cao_Recurrent_Homography_Estimation_Using_Homography-Guided_Image_Warping_and_Focus_Transformer_CVPR_2023_paper.html)/[Code](https://github.com/imdumpl78/RHWF)
+|   2023   |   AAAI  | Semi-supervised Deep Large-baseline Homography Estimation with Progressive Equivalence Constraint  <br> <sub><sup>*Hai Jiang, Haipeng Li, Yuhang Lu, Songchen Han, Shuaicheng Liu*</sup></sub> | [Paper](https://arxiv.org/abs/2212.02763)/[Code](https://github.com/megvii-research/LBHomo)
+|   2023     |  AAAI | Pixel-Wise Warping for Deep Image Stitching  <br> <sub><sup>*Hyeokjun Kweon, Hyeonseong Kim, Yoonsu Kang, Youngho Yoon, WooSeong Jeong, and Kuk-Jin Yoon*</sup><sub>  | [Paper]([https://arxiv.org/abs/2112.06171](https://ojs.aaai.org/index.php/AAAI/article/view/25202))/Code
+|   2023    |  TIP | Deep Rotation Correction without Angle Prior <br> <sub><sup>*Lang Nie, Shuaicheng Liu, et al.*</sup><sub>  | [Paper](https://arxiv.org/abs/2207.03054)/[Code](https://github.com/nie-lang/RotationCorrection)
 |   2023   |   TMM   | Natural Image Stitching With Layered Warping Constraint  <br> <sub><sup>*Zhihao Zhang; Xianqiang Yang; Chao Xu*</sup></sub> | [Paper](https://ieeexplore.ieee.org/abstract/document/9612024)/Code
 
 
@@ -39,10 +43,8 @@ A curated list of awesome resources for topics related to computational photogra
 
 | **Year** | **Pub.** | **Title**       | **Links**                |
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
-|   --     |  arXiv | Warped Convolution Networks for Homography Estimation <br> <sub><sup>*Xinrui Zhan, Jianke Zhu, et al.*</sup><sub> | [Paper](https://arxiv.org/abs/2206.11657)/Code
-|   --     |  arXiv | Deep Rotation Correction without Angle Prior <br> <sub><sup>*Lang Nie, Shuaicheng Liu, et al.*</sup><sub>  | [Paper](https://arxiv.org/abs/2207.03054)/[Code](https://github.com/nie-lang/RotationCorrection)
+|   --     |  arXiv | Warped Convolutional Networks: Bridge Homography to sl(3) algebra by Group Convolution <br> <sub><sup>*Xinrui Zhan, Jianke Zhu, et al.*</sup><sub> | [Paper](https://arxiv.org/abs/2206.11657)/[Code](https://github.com/zhanxinrui/warped-convolution-networks)
 |   --     |  arXiv | Natural Image Stitching Using Depth Maps  <br> <sub><sup>*Tianli Liao, Nan Li*</sup><sub>  | [Paper](https://arxiv.org/pdf/2202.06276.pdf)/Code 
-|   --     |  arXiv | Pixel-wise Deep Image Stitching  <br> <sub><sup>*Hyeokjun Kweon, et al.*</sup><sub>  | [Paper](https://arxiv.org/abs/2112.06171)/Code
 |   2022   |   MM   | Towards All Weather and Unobstructed Multi-Spectral Image Stitching: Algorithm and Benchmark <br> <sub><sup>*Zhiying Jiang, Zengxi Zhang, Xin Fan, Risheng Liu*</sup></sub> | [Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3547966)/Code
 |   2022   |  ECCV  | Weakly-Supervised Stitching Network for Real-World Panoramic Image Generation <br> <sub><sup>*Dae-Young Song, Geonsoo Lee, HeeKyung Lee, Gi-Mun Um, Donghyeon Cho*</sup><sub> | [Paper](https://arxiv.org/abs/2209.05968)/Code
 |   2022   |  CVPR  | Geometric Structure Preserving Warp for Natural Image Stitching  <br> <sub><sup>*Peng Du, Jifeng Ning, et al.*</sup><sub>  | [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Du_Geometric_Structure_Preserving_Warp_for_Natural_Image_Stitching_CVPR_2022_paper.html)/[Code](https://github.com/flowerDuo/GES-GSP-Stitching) 
