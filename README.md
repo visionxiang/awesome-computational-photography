@@ -146,6 +146,11 @@ A curated list of awesome resources for topics related to computational photogra
 |   2016   |   ECCV   | SEAGULL: Seam-Guided Local Alignment for Parallax-Tolerant Image Stitching   <br> <sub><sup>*Kaimo Lin, Nianjuan Jiang, et al.*</sup><sub>    | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_23)/[Proj](http://linkaimo.com/publications/ImageStitching/ImageStitching.html)                                                   |
 |   2016   |   ECCV   | Natural Image Stitching with the Global Similarity Prior    <br> <sub><sup>*Y.-S. Chen, Yung-Yu Chuang*</sup><sub> | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-46454-1_12)/[Code](https://github.com/nothinglo/NISwGSP) |
 |   2016   |   TOG    | Jump: Virtual reality video        <br> <sub><sup>*Robert Anderson, et al.*</sup><sub>      | [Paper](https://dl.acm.org/doi/pdf/10.1145/2980179.2980257)/Code        |
+|  2016    |   TIP    | Joint Video Stitching and Stabilization From Moving Cameras   <br> <sub><sup>*Heng Guo, Shuaicheng Liu, Tong He, Shuyuan Zhu, Bing Zeng, Moncef Gabbouj*</sup><sub>  | [Paper](http://www.liushuaicheng.org/TIP/VideoStitching2016/tip16.pdf)/[Proj](http://www.liushuaicheng.org/TIP/VideoStitching2016/index.html)/[Data](http://www.liushuaicheng.org/TIP/VideoStitching2016/index.html)
+|  2016    |   CGF    | Seamless Video Stitching from Hand-held Camera Inputs   <br> <sub><sup>*Kaimo Lin, Shuaicheng Liu, Loong-Fah Cheong, Bing Zeng*</sup><sub>  | [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12848)/Code
+
+
+
 
 
 
