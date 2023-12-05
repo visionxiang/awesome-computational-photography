@@ -126,7 +126,7 @@ A curated list of awesome resources for topics related to computational photogra
 |   2018   |   TMM    | Parallax-Tolerant Image Stitching Based on Robust Elastic Warping  <br> <sub><sup>*Jing Li, Zhengming Wang, Shiming Lai, Yongping Zhai, Maojun Zhang*</sup><sub>   | [Paper](https://ieeexplore.ieee.org/document/8119833)/[Code](https://github.com/gain2217/Robust_Elastic_Warping) |
 |   2018   |   TMM    | Quasi-Homography Warps in Image Stitching    <br> <sub><sup>*Nan Li, Yifang Xu, Chao Wang*</sup><sub>   |  [Paper](https://ieeexplore.ieee.org/document/8101022)/Code   |
 |   2018   |   PR   | Image Stitching by Line-guided Local Warping with Global Similarity Constraint   <br> <sub><sup>*Tian-Zhu Xiang, Gui-Song Xia, Xiang Bai, Liangpei Zhang*</sup><sub> | [Paper](https://arxiv.org/abs/1702.07935)/Code
-|   2018   |  RA-L  | Unsupervised deep homography: A fast and robust homography estimation model `DH`    <br> <sub><sup>*Ty Nguyen, et al.*</sup><sub> | [Paper](https://arxiv.org/abs/1709.03966)/[Code](https://github.com/tynguyen/unsupervisedDeepHomographyRAL2018)  |
+|   2018   |  RA-L  | Unsupervised deep homography: A fast and robust homography estimation model `DH` `MS-COCO`  <br> <sub><sup>*Ty Nguyen, et al.*</sup><sub> | [Paper](https://arxiv.org/abs/1709.03966)/[Code](https://github.com/tynguyen/unsupervisedDeepHomographyRAL2018)  |
 
 
 
@@ -134,7 +134,7 @@ A curated list of awesome resources for topics related to computational photogra
 
 | **Year** | **Pub.** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
-|   2017   |  ICCVW  | Homography Estimation from Image Pairs with Hierarchical Convolutional Networks `DH`   <br> <sub><sup>*F E Nowruzi, et al.*</sup><sub> | [Paper](https://openaccess.thecvf.com/content_ICCV_2017_workshops/w17/html/Nowruzi_Homography_Estimation_From_ICCV_2017_paper.html)/[Code](https://github.com/erlikn/tf_dh_py)
+|   2017   |  ICCVW  | Homography Estimation from Image Pairs with Hierarchical Convolutional Networks `DH` `MS-COCO`  <br> <sub><sup>*F E Nowruzi, et al.*</sup><sub> | [Paper](https://openaccess.thecvf.com/content_ICCV_2017_workshops/w17/html/Nowruzi_Homography_Estimation_From_ICCV_2017_paper.html)/[Code](https://github.com/erlikn/tf_dh_py)
 |   2017   |  CVPR  | Direct Photometric Alignment by Mesh Deformation             <br> <sub><sup>*Kaimo Lin, Shuaicheng Liu, et al.*</sup><sub>   | [Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Lin_Direct_Photometric_Alignment_CVPR_2017_paper.pdf)/[Code](https://github.com/lxlscut/optical2.0)   |
 | 2017 | PR | Globally consistent alignment for planar mosaicking via topology analysis  <br> <sub><sup>*Menghan Xia, Jian Yao, Renping Xie, Li Li, Wei Zhang*</sup></sub> | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320317300201)/[Proj](http://cvrs.whu.edu.cn/projects/PlanarMosaicking)/[Code](https://github.com/MenghanXia/AutoStitching) | 
 
@@ -143,7 +143,7 @@ A curated list of awesome resources for topics related to computational photogra
 
 | **Year** | **Pub.** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
-|   2016   |   RSS-W   |  Deep Image Homography Estimation `DH`   <br> <sub><sup>*Daniel DeTone, et al.*</sup><sub>  | [Paper](https://arxiv.org/abs/1606.03798)/[Code](https://github.com/mazenmel/Deep-homography-estimation-Pytorch)
+|   2016   |   RSS-W   |  Deep Image Homography Estimation `DH` `MS-COCO`   <br> <sub><sup>*Daniel DeTone, et al.*</sup><sub>  | [Paper](https://arxiv.org/abs/1606.03798)/[Code](https://github.com/mazenmel/Deep-homography-estimation-Pytorch)
 |   2016   |   ECCV   | SEAGULL: Seam-Guided Local Alignment for Parallax-Tolerant Image Stitching   <br> <sub><sup>*Kaimo Lin, Nianjuan Jiang, et al.*</sup><sub>    | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_23)/[Proj](http://linkaimo.com/publications/ImageStitching/ImageStitching.html)                                                   |
 |   2016   |   ECCV   | Natural Image Stitching with the Global Similarity Prior    <br> <sub><sup>*Y.-S. Chen, Yung-Yu Chuang*</sup><sub> | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-46454-1_12)/[Code](https://github.com/nothinglo/NISwGSP) |
 |   2016   |   TOG    | Jump: Virtual reality video        <br> <sub><sup>*Robert Anderson, et al.*</sup><sub>      | [Paper](https://dl.acm.org/doi/pdf/10.1145/2980179.2980257)/Code        |
