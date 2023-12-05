@@ -106,12 +106,13 @@ A curated list of awesome resources for topics related to computational photogra
 
 | **Year** | **Pub.** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
-|   2019   |   ICCV   | Homography From Two Orientation- and Scale-Covariant Features   <br> <sub><sup>*Daniel Barath, Zuzana Kukelova*</sup><sub>     | [Paper](https://arxiv.org/pdf/1906.11927.pdf)/[Code](https://github.com/danini/homography-from-sift-features) |
-|   2019   |   BMVC   | Video Stitching for Linear Camera Arrays <span style="color:blue;">`CNNStitch`</span>   <br> <sub><sup>*Wei-Sheng Lai, et al.*</sup><sub>     | [Paper](https://jankautz.com/publications/VideoStitching_BMVC19.pdf)/[arXiv](https://arxiv.org/abs/1907.13622)<br>[Proj](http://vllab.ucmerced.edu/wlai24/video_stitching/) |
-|   2019   |   TIP    | Robust Alignment for Panoramic Stitching Via an Exact Rank Constraint   <br> <sub><sup>*Yuelong Li, Mohammad Tofighi, Vishal Monga*</sup><sub>         | [Paper](https://ieeexplore.ieee.org/document/8684316)/[Code](http://signal.ee.psu.edu/research/BRAS.html) |
+|   2019   |   ICCV   | Homography From Two Orientation- and Scale-Covariant Features   <br> <sub><sup>*Daniel Barath, Zuzana Kukelova*</sup></sub>     | [Paper](https://arxiv.org/pdf/1906.11927.pdf)/[Code](https://github.com/danini/homography-from-sift-features) |
+|   2019   |   BMVC   | Video Stitching for Linear Camera Arrays <span style="color:blue;">`CNNStitch`</span>   <br> <sub><sup>*Wei-Sheng Lai, et al.*</sup></sub>     | [Paper](https://jankautz.com/publications/VideoStitching_BMVC19.pdf)/[arXiv](https://arxiv.org/abs/1907.13622)<br>[Proj](http://vllab.ucmerced.edu/wlai24/video_stitching/) |
+|   2019   |   TIP    | Robust Alignment for Panoramic Stitching Via an Exact Rank Constraint   <br> <sub><sup>*Yuelong Li, Mohammad Tofighi, Vishal Monga*</sup></sub>         | [Paper](https://ieeexplore.ieee.org/document/8684316)/[Code](http://signal.ee.psu.edu/research/BRAS.html) |
 |   2019   |   TMM    | A Novel Projective-Consistent Plane Based Image Stitching Method   <br> <sub><sup>*Jin Zheng, et al.*</sup><sub>    | Paper/Code                                                   |
-|   2019   |   TMM    | <span style="white-space:nowrap;">Shape-Optimizing and Illumination-Smoothing Image Stitching&emsp; </span>   <br> <sub><sup>*Shiguang Liu, Qingpeng Chai*</sup><sub>              | Paper/Code                                                   |
-|   2019   |   GRSM   | Remote Sensing Image Mosaicking: Achievements and Challenges   <br> <sub><sup>*Xinghua Li, Ruitao Feng, et al.*</sup><sub>    | [Paper](https://ieeexplore.ieee.org/document/8937068)/Code   | 
+|   2019   |   TMM    | <span style="white-space:nowrap;">Shape-Optimizing and Illumination-Smoothing Image Stitching&emsp; </span>   <br> <sub><sup>*Shiguang Liu, Qingpeng Chai*</sup></sub>              | Paper/Code                                                   |
+|   2019   |   GRSM   | Remote Sensing Image Mosaicking: Achievements and Challenges   <br> <sub><sup>*Xinghua Li, Ruitao Feng, et al.*</sup></sub>    | [Paper](https://ieeexplore.ieee.org/document/8937068)/Code   | 
+|   2019   |  ISPRS  | A Closed-Form Solution for Multi-view Color Correction with Gradient Preservation   <br> <sub><sup>*Menghan Xia, Jian Yao, Zhi Gao*</sup></sub>  | [Paper](https://menghanxia.github.io/papers/2019_Color_Consistency_Optimization_isprs_journal.pdf)/[Code](https://github.com/MenghanXia/ColorConsistency)
 
 
 
@@ -135,7 +136,7 @@ A curated list of awesome resources for topics related to computational photogra
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
 |   2017   |  ICCVW  | Homography Estimation from Image Pairs with Hierarchical Convolutional Networks `DH`   <br> <sub><sup>*F E Nowruzi, et al.*</sup><sub> | [Paper](https://openaccess.thecvf.com/content_ICCV_2017_workshops/w17/html/Nowruzi_Homography_Estimation_From_ICCV_2017_paper.html)/Code
 |   2017   |  CVPR  | Direct Photometric Alignment by Mesh Deformation             <br> <sub><sup>*Kaimo Lin, Shuaicheng Liu, et al.*</sup><sub>   | [Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Lin_Direct_Photometric_Alignment_CVPR_2017_paper.pdf)/[Code](https://github.com/lxlscut/optical2.0)   |
-| 2017 | PR | Globally consistent alignment for planar mosaicking via topology analysis  <br> <sub><sup>*Menghan Xia, Jian Yao, Renping Xie, Li Li, Wei Zhang*</sup></sub> | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320317300201)/Code | 
+| 2017 | PR | Globally consistent alignment for planar mosaicking via topology analysis  <br> <sub><sup>*Menghan Xia, Jian Yao, Renping Xie, Li Li, Wei Zhang*</sup></sub> | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320317300201)/[Proj](http://cvrs.whu.edu.cn/projects/PlanarMosaicking)/[Code](https://github.com/MenghanXia/AutoStitching) | 
 
 
 **2016**
