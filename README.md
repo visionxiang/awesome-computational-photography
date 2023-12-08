@@ -13,7 +13,7 @@ A curated list of awesome resources for topics related to computational photogra
 ## Contents:
 
 - [Stitching](#Stitching)
-  - [Image Stitching](#-image-stitching)
+  - [Image Stitching](#image)
   - [Video Stitching](#Video-Stitching)
   - [Stereo Stitching](#Stereo-Stitching)
   - [Stitching Evaluation](#Stitching-Evaluation)
@@ -31,6 +31,7 @@ A curated list of awesome resources for topics related to computational photogra
 
 ## Stitching
 
+<span id="image">xxx</span>
 ### :triangular_flag_on_post: Image Stitching
 
 **2023**
