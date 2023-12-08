@@ -407,6 +407,7 @@ Part curated paper list for deep learning-based image matching.
 |   2019   |   SIGA   | Deep Iterative Frame Interpolation for Full-frame Video Stabilization |                                                              | Paper/Code                                                   |
 |   2019   |   TIP    | Deep Online Video Stabilization With Multi-Grid Warping Transformation Learning | Miao Wang, et al.                                            | [Paper](https://ieeexplore.ieee.org/document/8554287)/[Code](https://github.com/cxjyxxme/deep-online-video-stabilization) |
 |   2019   |   TOG    | Joint Stabilization and Direction of 360° Videos             | C. Tang, Feng Liu, et al.                                    | [Paper](https://dl.acm.org/doi/abs/10.1145/3211889)/Code     |
+|   2019   |   TOG    | Content-preserving warps for 3D video stabilization    | Feng Liu, et al. | [Paper](https://dl.acm.org/doi/10.1145/1531326.1531350)/[Code](https://github.com/higerra/SubspaceStab)
 |   2018   |   ECCV   | Selfie Video Stabilization                                   |                                                              | Paper/Code                                                   |
 |   2018   |   CGF    | Deep Video Stabilization Using Adversarial Networks          | Sen-Zhe Xu, Jun Hu, et al.                                   | [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13566)/Code |
 
