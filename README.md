@@ -16,6 +16,8 @@ A curated list of awesome resources for topics related to computational photogra
   - [Image Stitching](#image-stitching)
   - [Video Stitching](#video-stitching)
   - [Stereo Stitching](#stereo-stitching)
+  - [Aerial Stitching](#aerial-stitching)
+  - [LF Stitching](#lf-stitching)
   - [Stitching Evaluation](#stitching-evaluation)
   - [Stitching Beyond](#stitching-beyond)
 - [Image Matching](#Image-Matching)
@@ -76,7 +78,7 @@ A curated list of awesome resources for topics related to computational photogra
 |   2021   |   CVPR   | Deep Lucas-Kanade Homography for Multimodal Image Alignment  <br> <sub><sup>*Yiming Zhao, Xinming Huang, Ziming Zhang*</sup><sub>             | [Paper](https://arxiv.org/abs/2104.11693)/[Code](https://github.com/placeforyiming/CVPR21-Deep-Lucas-Kanade-Homography) |
 |   2021   |   PAMI   | Rolling Shutter Homography and its Applications              <br> <sub><sup>*Yizhen Lao, Omar Ait-Aider*</sup><sub>   | [Paper](https://ieeexplore.ieee.org/abstract/document/9020067?casa_token=wY4f6AyKIm8AAAAA:HqPuYmhaCYKwkXV0szDhSJVPC1cpyUF_mza3du9CjRvDfVvYpza-kiXscNGbD3emJjt4PUAR)/Code     |
 |   2021   |   TIP    | Unsupervised Deep Image Stitching: Reconstructing Stitched Features to Images `DH`   <br> <sub><sup>*Lang Nie, Shuaicheng Liu, et al.*</sup><sub>            | [Paper](https://arxiv.org/abs/2106.12859)/[Code](https://github.com/nie-lang/UnsupervisedDeepImageStitching) |
-|   2021   |   TIP    | Image Stitching Based on Semantic Planar Region Consensus    <br> <sub><sup>*Aocheng Li, Jie Guo, Yanwen Guo*</sup><sub>        | [Paper](https://ieeexplore.ieee.org/document/9448359)/Code                                                   |
+|   2021   |   TIP    | Image Stitching Based on Semantic Planar Region Consensus    <br> <sub><sup>*Aocheng Li, Jie Guo, Yanwen Guo*</sup><sub>        | [Paper](https://arxiv.org/abs/2007.02722)/Code                                                   |
 |   2021   |   TVCG   | Content-Preserving Image Stitching With Piecewise Rectangular Boundary Constraints   <br> <sub><sup>*Yun Zhang, Yu-Kun Lai, Fang-Lue Zhang*</sup><sub>       | [Paper](https://ieeexplore.ieee.org/document/8954740)/Code                                                   |
 |   2021   |    PR    | Edge-guided Composition Network for Image Stitching          <br> <sub><sup>*Qinyan Dai, Faming Fang, Juncheng Li, Guixu Zhang, Aimin Zhou*</sup><sub>            | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320321002065)/Code |
 |   2021   |    PR    | Image stitching based on angle-consistent warping     <br> <sub><sup>*Yinqi Chen, Huicheng Zheng, Yiyan Ma, Zhiwei Yan*</sup><sub>      | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320321001801)/Code |
@@ -97,8 +99,6 @@ A curated list of awesome resources for topics related to computational photogra
 |   2020   |   CVPR   | <span style="white-space:nowrap;">Warping Residual Based Image Stitching for Large Parallax&emsp; </span> <br> <sub><sup>*Kyu-Yul Lee, Jae-Young Sim*</sup><sub>     | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lee_Warping_Residual_Based_Image_Stitching_for_Large_Parallax_CVPR_2020_paper.pdf)/Code |
 |   2020   |   CVPR   | Deep Homography Estimation for Dynamic Scenes  `DH`       <br> <sub><sup>*Hoang Le, Feng Liu, et al.*</sup><sub>            | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Le_Deep_Homography_Estimation_for_Dynamic_Scenes_CVPR_2020_paper.pdf)/[Code](https://github.com/lcmhoang/hmg-dynamics) |
 |   2020   |   CVPR   | Robust Homography Estimation via Dual Principal Component Pursuit  <br> <sub><sup>*Tianjiao Ding, et al.*</sup><sub>    | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ding_Robust_Homography_Estimation_via_Dual_Principal_Component_Pursuit_CVPR_2020_paper.pdf)/Code                                                   |
-|   2020   |   PAMI   | CrossNet++: Cross-scale Large-parallax Warping for Reference-based Super-resolution <br> <sub><sup>*Yang Tan, et al.*</sup><sub>            | Paper/Code                                                   |
-|   2020   |   TIP    | Parallax Tolerant Light Field Stitching for Hand-Held Plenoptic Cameras <br> <sub><sup>*Xin Jin, Pei Wang, Qionghai Dai*</sup><sub>          | Paper/Code                                                   |
 |   2020   |   TIP    | An Unordered Image Stitching Method Based on Binary Tree and Estimated Overlapping Area    <br> <sub><sup>*Zhong Qu, et al.*</sup><sub>       | Paper/Code                                                   |
 |   2020   |   TIP    | Single-Perspective Warps in Natural Image Stitching       <br> <sub><sup>*Tianli Liao, Nan Li*</sup><sub>             | [Paper](https://arxiv.org/abs/1802.04645)/[Code1](https://github.com/tlliao/Single-perspective-warps)<br>[Code2](https://github.com/tlliao/Single-perspective-warps-multiple) |
 |   2020   |   TMM    | Image-Only Real-Time Incremental UAV Image Mosaic for Multi-Strip Flight  <br> <sub><sup>*Fangbing Zhang, et al.*</sup><sub>          | [Paper](https://ieeexplore.ieee.org/document/9103112)/Code                                                   |
@@ -115,9 +115,9 @@ A curated list of awesome resources for topics related to computational photogra
 |   2019   |   ICCV   | Homography From Two Orientation- and Scale-Covariant Features   <br> <sub><sup>*Daniel Barath, Zuzana Kukelova*</sup></sub>     | [Paper](https://arxiv.org/pdf/1906.11927.pdf)/[Code](https://github.com/danini/homography-from-sift-features) |
 |   2019   |   TIP    | Robust Alignment for Panoramic Stitching Via an Exact Rank Constraint   <br> <sub><sup>*Yuelong Li, Mohammad Tofighi, Vishal Monga*</sup></sub>         | [Paper](https://ieeexplore.ieee.org/document/8684316)/[Code](http://signal.ee.psu.edu/research/BRAS.html) |
 |   2019   |   TMM    | A Novel Projective-Consistent Plane Based Image Stitching Method   <br> <sub><sup>*Jin Zheng, et al.*</sup><sub>    | Paper/Code                                                   |
-|   2019   |   TMM    | <span style="white-space:nowrap;">Shape-Optimizing and Illumination-Smoothing Image Stitching&emsp; </span>   <br> <sub><sup>*Shiguang Liu, Qingpeng Chai*</sup></sub>              | Paper/Code                                                   |
+|   2019   |   TMM    | <span style="white-space:nowrap;">Shape-Optimizing and Illumination-Smoothing Image Stitching&emsp; </span>   <br> <sub><sup>*Shiguang Liu, Qingpeng Chai*</sup></sub>              | Paper/Code    |
 |   2019   |   GRSM   | Remote Sensing Image Mosaicking: Achievements and Challenges   <br> <sub><sup>*Xinghua Li, Ruitao Feng, et al.*</sup></sub>    | [Paper](https://ieeexplore.ieee.org/document/8937068)/Code   | 
-|   2019   |  ISPRS  | A Closed-Form Solution for Multi-view Color Correction with Gradient Preservation   <br> <sub><sup>*Menghan Xia, Jian Yao, Zhi Gao*</sup></sub>  | [Paper](https://menghanxia.github.io/papers/2019_Color_Consistency_Optimization_isprs_journal.pdf)/[Code](https://github.com/MenghanXia/ColorConsistency)
+
 
 
 
@@ -140,16 +140,17 @@ A curated list of awesome resources for topics related to computational photogra
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
 |   2017   |  ICCVW  | Homography Estimation from Image Pairs with Hierarchical Convolutional Networks `DH` `MS-COCO`  <br> <sub><sup>*F E Nowruzi, et al.*</sup><sub> | [Paper](https://openaccess.thecvf.com/content_ICCV_2017_workshops/w17/html/Nowruzi_Homography_Estimation_From_ICCV_2017_paper.html)/[Code](https://github.com/erlikn/tf_dh_py)
 |   2017   |  CVPR  | Direct Photometric Alignment by Mesh Deformation             <br> <sub><sup>*Kaimo Lin, Shuaicheng Liu, et al.*</sup><sub>   | [Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Lin_Direct_Photometric_Alignment_CVPR_2017_paper.pdf)/[Code](https://github.com/lxlscut/optical2.0)   |
-| 2017 | PR | Globally consistent alignment for planar mosaicking via topology analysis  <br> <sub><sup>*Menghan Xia, Jian Yao, Renping Xie, Li Li, Wei Zhang*</sup></sub> | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320317300201)/[Proj](http://cvrs.whu.edu.cn/projects/PlanarMosaicking)/[Code](https://github.com/MenghanXia/AutoStitching) | 
 
 
 **2016**
 
 | **Year** | **Pub.** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
-|   2016   |   RSS-W   |  Deep Image Homography Estimation `DH` `MS-COCO`   <br> <sub><sup>*Daniel DeTone, et al.*</sup><sub>  | [Paper](https://arxiv.org/abs/1606.03798)/[Code](https://github.com/mazenmel/Deep-homography-estimation-Pytorch)
 |   2016   |   ECCV   | SEAGULL: Seam-Guided Local Alignment for Parallax-Tolerant Image Stitching   <br> <sub><sup>*Kaimo Lin, Nianjuan Jiang, et al.*</sup><sub>    | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_23)/[Proj](http://linkaimo.com/publications/ImageStitching/ImageStitching.html)                                                   |
 |   2016   |   ECCV   | Natural Image Stitching with the Global Similarity Prior    <br> <sub><sup>*Y.-S. Chen, Yung-Yu Chuang*</sup><sub> | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-46454-1_12)/[Code](https://github.com/nothinglo/NISwGSP) |
+|   2016   |   RSS-W   |  Deep Image Homography Estimation `DH` `MS-COCO`   <br> <sub><sup>*Daniel DeTone, et al.*</sup><sub>  | [Paper](https://arxiv.org/abs/1606.03798)/[Code](https://github.com/mazenmel/Deep-homography-estimation-Pytorch)
+|   2016   |   TIP    | Multi-Viewpoint Panorama Construction With Wide-Baseline Images  <br> <sub><sup>*Guofeng Zhang; Yi He; Weifeng Chen; Jiaya Jia; Hujun Bao*</sup><sub>  | [Paper](http://www.cad.zju.edu.cn/home/gfzhang/projects/panorama/pano-tip-print.pdf)/Code
+   
 
 
 **2015 & before**
@@ -199,6 +200,28 @@ A curated list of awesome resources for topics related to computational photogra
 |   2016   |  TCSVT   | Stereoscopic image stitching based on a hybrid warping model   <br> <sub><sup>*Yan, Weiqing and Hou, Chunping and Lei, Jianjun and Fang, Yuming and Gu, Zhouye and Ling, Nam*</sup><sub>        | [Paper](http://sim.jxufe.cn/JDMKL/pdf/Stereoscopic%20image%20stitching%20based%20on%20a%20hybrid%20warping%20model.pdf)/Code
 |   2015   |   CVPR   | Casual Stereoscopic Panorama Stitching   <br> <sub><sup>*Fan Zhang and Feng Liu*</sup><sub> | [Paper](https://pages.cs.wisc.edu/~fliu/project/stereostitch/)/Code  
 
+
+
+### :triangular_flag_on_post: Aerial Stitching
+<span id="aerial-stitching"></span>
+
+| **Year** | **Pub.** | **Title**                                                    | **Links**                                                    |
+| :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| 2020 | ISPRS | Jointly Optimizing Global and Local Color Consistency for Multiple Image Mosaicking    <br> <sub><sup>*Li Li, Menghan Xia, Chi Liu, Liang Li, Hanyun Wang, Jian Yao*</sup></sub> | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271620302781?dgcid=rss_sd_all)/Code
+| 2019 |  GRSM   | Remote Sensing Image Mosaicking: Achievements and Challenges   <br> <sub><sup>*Xinghua Li; Ruitao Feng; Xiaobin Guan; Huanfeng Shen; Liangpei Zhang*</sup></sub>  | [Paper](https://ieeexplore.ieee.org/abstract/document/8937068)/Code
+| 2019 |  ISPRS  | A Closed-Form Solution for Multi-view Color Correction with Gradient Preservation   <br> <sub><sup>*Menghan Xia, Jian Yao, Zhi Gao*</sup></sub>  | [Paper](https://menghanxia.github.io/papers/2019_Color_Consistency_Optimization_isprs_journal.pdf)/[Code](https://github.com/MenghanXia/ColorConsistency)
+| 2019 | ISPRS | Seamline network generation based on foreground segmentation for orthoimage mosaicking   <br> <sub><sup>*Li Li, Jingmin Tu, Ye Gong, Jian Yao, Jie Li*</sup></sub> | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271618303319)/Code
+| 2018 | ISPRS | Guided Color Consistency Optimization for Image Mosaicking  <br> <sub><sup>*Renping Xie, Menghan Xia, Jian Yao, Li Li*</sup></sub> | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271616305731)/Code
+| 2017 | PR | Globally consistent alignment for planar mosaicking via topology analysis  <br> <sub><sup>*Menghan Xia, Jian Yao, Renping Xie, Li Li, Wei Zhang*</sup></sub> | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320317300201)/[Proj](http://cvrs.whu.edu.cn/projects/PlanarMosaicking)/[Code](https://github.com/MenghanXia/AutoStitching) | 
+
+
+
+### :triangular_flag_on_post: LF Stitching
+<span id="lf-stitching"></span>
+
+| **Year** | **Pub.** | **Title**                                                    | **Links**                                                    |
+| :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
+|   2020   |   TIP    | Parallax Tolerant Light Field Stitching for Hand-Held Plenoptic Cameras <br> <sub><sup>*Xin Jin, Pei Wang, Qionghai Dai*</sup><sub>          | [Paper](https://ieeexplore.ieee.org/document/8864107)/Code                                                   |
 
 
 
