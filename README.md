@@ -22,10 +22,7 @@ A curated list of awesome resources for topics related to computational photogra
   - [Stitching Beyond](#stitching-beyond)
 - [Image Matching](#Image-Matching)
 - [Image Alignment](#Image-Alignment)
-- [Color Harmonization](#Color-Harmonization)
-- [Low-Light Enhancement](#Low-Light-Enhancement)
 - [Stabilization](#Stabilization)
-- [Beyond](#Beyond)
 - [Appendix](#Appendix)
 
 --------------------------------------------------------------------------------------
