@@ -14,10 +14,10 @@ A curated list of awesome resources for topics related to computational photogra
 
 - [Stitching](#Stitching)
   - [Image Stitching](#image-stitching)
-  - [Video Stitching](#Video-Stitching)
-  - [Stereo Stitching](#Stereo-Stitching)
-  - [Stitching Evaluation](#Stitching-Evaluation)
-  - [Stitching Beyond](#Stitching-Beyond)
+  - [Video Stitching](#video-stitching)
+  - [Stereo Stitching](#stereo-stitching)
+  - [Stitching Evaluation](#stitching-evaluation)
+  - [Stitching Beyond](#stitching-beyond)
 - [Image Matching](#Image-Matching)
 - [Image Alignment](#Image-Alignment)
 - [Color Harmonization](#Color-Harmonization)
@@ -174,6 +174,7 @@ A curated list of awesome resources for topics related to computational photogra
 
 
 ### :triangular_flag_on_post: Video Stitching
+<span id="video-stitching"></span>
 
 | **Year** | **Pub.** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
@@ -187,6 +188,7 @@ A curated list of awesome resources for topics related to computational photogra
 
 
 ### :triangular_flag_on_post: Stereo Stitching
+<span id="stereo-stitching"></span>
 
 | **Year** | **Pub.** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
@@ -201,6 +203,7 @@ A curated list of awesome resources for topics related to computational photogra
 
 
 ### :triangular_flag_on_post: Stitching Evaluation
+<span id="stitching-evaluation"></span>
 
 | **Year** | **Pub.** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
@@ -212,6 +215,7 @@ A curated list of awesome resources for topics related to computational photogra
 
 
 ### :triangular_flag_on_post: Stitching Beyond
+<span id="stitching-beyond"></span>
 
 | **Year** | **Pub.** | **Title**                                                    | **Links**                                                  |
 | :------: | :------: | :----------------------------------------------------------- | :--------------------------------------------------------- |
