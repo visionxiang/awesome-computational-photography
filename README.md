@@ -100,8 +100,7 @@ A curated list of awesome resources for topics related to computational photogra
 |   2020   |   TIP    | Single-Perspective Warps in Natural Image Stitching       <br> <sub><sup>*Tianli Liao, Nan Li*</sup><sub>             | [Paper](https://arxiv.org/abs/1802.04645)/[Code1](https://github.com/tlliao/Single-perspective-warps)<br>[Code2](https://github.com/tlliao/Single-perspective-warps-multiple) |
 |   2020   |   TMM    | Image-Only Real-Time Incremental UAV Image Mosaic for Multi-Strip Flight  <br> <sub><sup>*Fangbing Zhang, et al.*</sup><sub>          | [Paper](https://ieeexplore.ieee.org/document/9103112)/Code                                                   |
 |   2020   |  JSTSP   | Attentive Deep Stitching and Quality Assessment for 360° Omnidirectional Images  <br> <sub><sup>*Jia Li, et al.*</sup><sub>   | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8903278&casa_token=-GdkCo2qmfIAAAAA:GbByoLo8XDRu7PCBD-kH-bvgT6R9Zl9_P9KtnTRz47jMbAqDPBve9UrBWTkA9sGpwa1OgLc&tag=1)/Code |   
-<!-- |   --   | arXiv  | Learning Edge-Preserved Image Stitching from Large-Baseline Deep Homography   <br> <sub><sup>*Lang Nie, Chunyu Lin, Kang Liao, Shuaicheng Liu, Yao Zhao*</sup><sub>      | [Paper](https://arxiv.org/pdf/2012.06194.pdf)/Code           |  -->
-
+|   2020   |  JVCIR  |  A view-free image stitching network based on global homography  <br> <sub><sup>*Lang Nie, Chunyu Lin, Kang Liao, Meiqin Liu, Yao Zhao*</sup><sub>   | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1047320320301784)/[Code](https://github.com/nie-lang/DeepImageStitching-1.0)
 
 
 
