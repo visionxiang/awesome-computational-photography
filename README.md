@@ -2,7 +2,7 @@
 
 A curated list of awesome resources for topics related to computational photography via deep learning, including but not limited to image matching, image alignment/registration, image stitching and stabilization. 
 
-:heavy_exclamation_mark:Updated 2023.
+:heavy_exclamation_mark: Updated 2023.
 
 
 
@@ -12,7 +12,12 @@ A curated list of awesome resources for topics related to computational photogra
 
 ## Contents:
 
-- [Image Stitching](#Image-Stitching)
+- [Stitching](#Stitching)
+  - [Image Stitching](#Image-Stitching)
+  - [Video Stitching](#Video-Stitching)
+  - [Stereo Stitching](#Stereo-Stitching)
+  - [Stitching Evaluation](#Stitching-Evaluation)
+  - [Stitching Beyond](#Stitching-Beyond)
 - [Image Matching](#Image-Matching)
 - [Image Alignment](#Image-Alignment)
 - [Color Harmonization](#Color-Harmonization)
@@ -24,7 +29,9 @@ A curated list of awesome resources for topics related to computational photogra
 --------------------------------------------------------------------------------------
 
 
-## Image Stitching
+## Stitching
+
+### :triangular_flag_on_post: Image Stitching
 
 **2023**
 
@@ -66,7 +73,6 @@ A curated list of awesome resources for topics related to computational photogra
 |   2021   | ICCV  | Motion Basis Learning for Unsupervised Deep Homography Estimation with Subspace Projection `DH`   <br> <sub><sup>*Nianjin Ye, Shuaicheng Liu, et al.*</sup><sub>     | [Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Ye_Motion_Basis_Learning_for_Unsupervised_Deep_Homography_Estimation_With_Subspace_ICCV_2021_paper.html)/[Code](https://github.com/megvii-research/BasesHomo) |
 |   2021   |   CVPR   | <span style="white-space:nowrap;">Leveraging Line-Point Consistence To Preserve Structures for Wide Parallax Image Stitching&emsp; </span> <br> <sub><sup>*Qi Jia, ZhengJun Li, et al.*</sup><sub> | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Jia_Leveraging_Line-Point_Consistence_To_Preserve_Structures_for_Wide_Parallax_Image_CVPR_2021_paper.pdf)/[Code](https://github.com/dut-media-lab/Image-Stitching) |
 |   2021   |   CVPR   | Deep Lucas-Kanade Homography for Multimodal Image Alignment  <br> <sub><sup>*Yiming Zhao, Xinming Huang, Ziming Zhang*</sup><sub>             | [Paper](https://arxiv.org/abs/2104.11693)/[Code](https://github.com/placeforyiming/CVPR21-Deep-Lucas-Kanade-Homography) |
-|   2021   |   CVPR   | Deep Homography for Efficient Stereo Image Compression       <br> <sub><sup>*Xin Deng, Mai Xu, et al.*</sup><sub>     | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_Deep_Homography_for_Efficient_Stereo_Image_Compression_CVPR_2021_paper.pdf)/[Code](https://github.com/ywz978020607/HESIC)                                                   |
 |   2021   |   PAMI   | Rolling Shutter Homography and its Applications              <br> <sub><sup>*Yizhen Lao, Omar Ait-Aider*</sup><sub>   | [Paper](https://ieeexplore.ieee.org/abstract/document/9020067?casa_token=wY4f6AyKIm8AAAAA:HqPuYmhaCYKwkXV0szDhSJVPC1cpyUF_mza3du9CjRvDfVvYpza-kiXscNGbD3emJjt4PUAR)/Code     |
 |   2021   |   TIP    | Unsupervised Deep Image Stitching: Reconstructing Stitched Features to Images `DH`   <br> <sub><sup>*Lang Nie, Shuaicheng Liu, et al.*</sup><sub>            | [Paper](https://arxiv.org/abs/2106.12859)/[Code](https://github.com/nie-lang/UnsupervisedDeepImageStitching) |
 |   2021   |   TIP    | Image Stitching Based on Semantic Planar Region Consensus    <br> <sub><sup>*Aocheng Li, Jie Guo, Yanwen Guo*</sup><sub>        | [Paper](https://ieeexplore.ieee.org/document/9448359)/Code                                                   |
@@ -94,8 +100,7 @@ A curated list of awesome resources for topics related to computational photogra
 |   2020   |   TIP    | Parallax Tolerant Light Field Stitching for Hand-Held Plenoptic Cameras <br> <sub><sup>*Xin Jin, Pei Wang, Qionghai Dai*</sup><sub>          | Paper/Code                                                   |
 |   2020   |   TIP    | An Unordered Image Stitching Method Based on Binary Tree and Estimated Overlapping Area    <br> <sub><sup>*Zhong Qu, et al.*</sup><sub>       | Paper/Code                                                   |
 |   2020   |   TIP    | Single-Perspective Warps in Natural Image Stitching       <br> <sub><sup>*Tianli Liao, Nan Li*</sup><sub>             | [Paper](https://arxiv.org/abs/1802.04645)/[Code1](https://github.com/tlliao/Single-perspective-warps)<br>[Code2](https://github.com/tlliao/Single-perspective-warps-multiple) |
-|   2020   |   TMM    | Stereoscopic Image Stitching via Disparity-Constrained Warping and Blending   <br> <sub><sup>*Xiaoting Fan, et al.*</sup><sub>        | Paper/Code                                                   |
-|   2020   |   TMM    | Image-Only Real-Time Incremental UAV Image Mosaic for Multi-Strip Flight  <br> <sub><sup>*Fangbing Zhang, et al.*</sup><sub>          | Paper/Code                                                   |
+|   2020   |   TMM    | Image-Only Real-Time Incremental UAV Image Mosaic for Multi-Strip Flight  <br> <sub><sup>*Fangbing Zhang, et al.*</sup><sub>          | [Paper](https://ieeexplore.ieee.org/document/9103112)/Code                                                   |
 |   2020   |  JSTSP   | Attentive Deep Stitching and Quality Assessment for 360° Omnidirectional Images  <br> <sub><sup>*Jia Li, et al.*</sup><sub>   | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8903278&casa_token=-GdkCo2qmfIAAAAA:GbByoLo8XDRu7PCBD-kH-bvgT6R9Zl9_P9KtnTRz47jMbAqDPBve9UrBWTkA9sGpwa1OgLc&tag=1)/Code |   
 <!-- |   --   | arXiv  | Learning Edge-Preserved Image Stitching from Large-Baseline Deep Homography   <br> <sub><sup>*Lang Nie, Chunyu Lin, Kang Liao, Shuaicheng Liu, Yao Zhao*</sup><sub>      | [Paper](https://arxiv.org/pdf/2012.06194.pdf)/Code           |  -->
 
@@ -107,7 +112,6 @@ A curated list of awesome resources for topics related to computational photogra
 | **Year** | **Pub.** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
 |   2019   |   ICCV   | Homography From Two Orientation- and Scale-Covariant Features   <br> <sub><sup>*Daniel Barath, Zuzana Kukelova*</sup></sub>     | [Paper](https://arxiv.org/pdf/1906.11927.pdf)/[Code](https://github.com/danini/homography-from-sift-features) |
-|   2019   |   BMVC   | Video Stitching for Linear Camera Arrays <span style="color:blue;">`CNNStitch`</span>   <br> <sub><sup>*Wei-Sheng Lai, et al.*</sup></sub>     | [Paper](https://jankautz.com/publications/VideoStitching_BMVC19.pdf)/[arXiv](https://arxiv.org/abs/1907.13622)<br>[Proj](http://vllab.ucmerced.edu/wlai24/video_stitching/) |
 |   2019   |   TIP    | Robust Alignment for Panoramic Stitching Via an Exact Rank Constraint   <br> <sub><sup>*Yuelong Li, Mohammad Tofighi, Vishal Monga*</sup></sub>         | [Paper](https://ieeexplore.ieee.org/document/8684316)/[Code](http://signal.ee.psu.edu/research/BRAS.html) |
 |   2019   |   TMM    | A Novel Projective-Consistent Plane Based Image Stitching Method   <br> <sub><sup>*Jin Zheng, et al.*</sup><sub>    | Paper/Code                                                   |
 |   2019   |   TMM    | <span style="white-space:nowrap;">Shape-Optimizing and Illumination-Smoothing Image Stitching&emsp; </span>   <br> <sub><sup>*Shiguang Liu, Qingpeng Chai*</sup></sub>              | Paper/Code                                                   |
@@ -122,7 +126,6 @@ A curated list of awesome resources for topics related to computational photogra
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
 |   2018   |   ECCV   | Object-centered image stitching     <br> <sub><sup>*Charles Herrmann, Ramin Zabih, et al.*</sup><sub>  |  [Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Charles_Herrmann_Object-centered_image_stitching_ECCV_2018_paper.pdf)/Code                                                   |
 |   2018   |   ECCV   | Robust image stitching with multiple registrations    <br> <sub><sup>*Herrmann, Charles, Zabih, Ramin, et al.*</sup><sub>  | [Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Charles_Herrmann_Robust_image_stitching_ECCV_2018_paper.pdf)/Code   |
-|   2018   |   TIP    | Dynamic Video Stitching via Shakiness Removing               <br> <sub><sup>*Yongwei Nie, et al.*</sup><sub>               | [Paper](https://ieeexplore.ieee.org/document/8003352)/[Code](https://github.com/SuTanTank/VideoStitchingViaShakinessRemoving) |
 |   2018   |   TMM    | Parallax-Tolerant Image Stitching Based on Robust Elastic Warping  <br> <sub><sup>*Jing Li, Zhengming Wang, Shiming Lai, Yongping Zhai, Maojun Zhang*</sup><sub>   | [Paper](https://ieeexplore.ieee.org/document/8119833)/[Code](https://github.com/gain2217/Robust_Elastic_Warping) |
 |   2018   |   TMM    | Quasi-Homography Warps in Image Stitching    <br> <sub><sup>*Nan Li, Yifang Xu, Chao Wang*</sup><sub>   |  [Paper](https://ieeexplore.ieee.org/document/8101022)/Code   |
 |   2018   |   PR   | Image Stitching by Line-guided Local Warping with Global Similarity Constraint   <br> <sub><sup>*Tian-Zhu Xiang, Gui-Song Xia, Xiang Bai, Liangpei Zhang*</sup><sub> | [Paper](https://arxiv.org/abs/1702.07935)/Code
@@ -146,13 +149,6 @@ A curated list of awesome resources for topics related to computational photogra
 |   2016   |   RSS-W   |  Deep Image Homography Estimation `DH` `MS-COCO`   <br> <sub><sup>*Daniel DeTone, et al.*</sup><sub>  | [Paper](https://arxiv.org/abs/1606.03798)/[Code](https://github.com/mazenmel/Deep-homography-estimation-Pytorch)
 |   2016   |   ECCV   | SEAGULL: Seam-Guided Local Alignment for Parallax-Tolerant Image Stitching   <br> <sub><sup>*Kaimo Lin, Nianjuan Jiang, et al.*</sup><sub>    | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_23)/[Proj](http://linkaimo.com/publications/ImageStitching/ImageStitching.html)                                                   |
 |   2016   |   ECCV   | Natural Image Stitching with the Global Similarity Prior    <br> <sub><sup>*Y.-S. Chen, Yung-Yu Chuang*</sup><sub> | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-46454-1_12)/[Code](https://github.com/nothinglo/NISwGSP) |
-|   2016   |   TOG    | Jump: Virtual reality video        <br> <sub><sup>*Robert Anderson, et al.*</sup><sub>      | [Paper](https://dl.acm.org/doi/pdf/10.1145/2980179.2980257)/Code        |
-|  2016    |   TIP    | Joint Video Stitching and Stabilization From Moving Cameras   <br> <sub><sup>*Heng Guo, Shuaicheng Liu, Tong He, Shuyuan Zhu, Bing Zeng, Moncef Gabbouj*</sup><sub>  | [Paper](http://www.liushuaicheng.org/TIP/VideoStitching2016/tip16.pdf)/[Proj](http://www.liushuaicheng.org/TIP/VideoStitching2016/index.html)/[Data](http://www.liushuaicheng.org/TIP/VideoStitching2016/index.html)
-|  2016    |   CGF    | Seamless Video Stitching from Hand-held Camera Inputs   <br> <sub><sup>*Kaimo Lin, Shuaicheng Liu, Loong-Fah Cheong, Bing Zeng*</sup><sub>  | [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12848)/Code
-
-
-
-
 
 
 **2015 & before**
@@ -160,7 +156,6 @@ A curated list of awesome resources for topics related to computational photogra
 | **Year** | **Pub.** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
 |   2015   |   ICCV   |  Dual-Feature Warping-Based Motion Model Estimation  <br> <sub><sup>*Shiwei Li, Lu Yuan, Jian Sun, Long Quan*</sup><sub> | [Paper](https://openaccess.thecvf.com/content_iccv_2015/html/Li_Dual-Feature_Warping-Based_Motion_ICCV_2015_paper.html)/Code
-|   2015   |   CVPR   | 	Casual Stereoscopic Panorama Stitching   <br> <sub><sup>*Fan Zhang and Feng Liu*</sup><sub> | [Paper](https://pages.cs.wisc.edu/~fliu/project/stereostitch/)/Code  
 |   2015   |   CVPR   | Adaptive As-Natural-As-Possible Image Stitching  <br> <sub><sup>*Chung-Ching Lin, S. U. Pankanti, K. N. Ramamurthy, and Aleksandr Y. Aravkin*</sup><sub> | [Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Lin_Adaptive_As-Natural-As-Possible_Image_2015_CVPR_paper.pdf)/[Code](https://github.com/YaqiLYU/AANAP)
 |   2014   |   CVPR   |  Shape-preserving half-projective warps for image stitching <br> <sub><sup>*Che-Han Chang, Yoichi Sato, Yung-Yu Chuang*</sup><sub> | [Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2014/html/Chang_Shape-Preserving_Half-Projective_Warps_2014_CVPR_paper.html)/Code
 |   2014   |   CVPR  |  Parallax-tolerant Image Stitching  <br> <sub><sup>*Fan Zhang and Feng Liu*</sup><sub>  | [Paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Zhang_Parallax-tolerant_Image_Stitching_2014_CVPR_paper.pdf)
@@ -175,25 +170,55 @@ A curated list of awesome resources for topics related to computational photogra
 
 
 
-#### Stitching Evaluation
+
+
+### :triangular_flag_on_post: Video Stitching
 
 | **Year** | **Pub.** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
+|  2019   |   BMVC   | Video Stitching for Linear Camera Arrays <span style="color:blue;">`CNNStitch`</span>   <br> <sub><sup>*Wei-Sheng Lai, et al.*</sup></sub>     | [Paper](https://jankautz.com/publications/VideoStitching_BMVC19.pdf)/[arXiv](https://arxiv.org/abs/1907.13622)<br>[Proj](http://vllab.ucmerced.edu/wlai24/video_stitching/) |
+|  2018   |   TIP    | Dynamic Video Stitching via Shakiness Removing               <br> <sub><sup>*Yongwei Nie, et al.*</sup><sub>               | [Paper](https://ieeexplore.ieee.org/document/8003352)/[Code](https://github.com/SuTanTank/VideoStitchingViaShakinessRemoving) |
+|  2016   |   TOG    | Jump: Virtual reality video        <br> <sub><sup>*Robert Anderson, et al.*</sup><sub>      | [Paper](https://dl.acm.org/doi/pdf/10.1145/2980179.2980257)/Code        |
+|  2016   |   TIP    | Joint Video Stitching and Stabilization From Moving Cameras   <br> <sub><sup>*Heng Guo, Shuaicheng Liu, Tong He, Shuyuan Zhu, Bing Zeng, Moncef Gabbouj*</sup><sub>  | [Paper](http://www.liushuaicheng.org/TIP/VideoStitching2016/tip16.pdf)/[Proj](http://www.liushuaicheng.org/TIP/VideoStitching2016/index.html)/[Data](http://www.liushuaicheng.org/TIP/VideoStitching2016/index.html)
+|  2016   |   CGF    | Seamless Video Stitching from Hand-held Camera Inputs   <br> <sub><sup>*Kaimo Lin, Shuaicheng Liu, Loong-Fah Cheong, Bing Zeng*</sup><sub>  | [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12848)/Code
+
+
+
+
+### :triangular_flag_on_post: Stereo Stitching
+
+| **Year** | **Pub.** | **Title**                                                    | **Links**                                                    |
+| :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
+|   2021   |   CVPR   | Deep Homography for Efficient Stereo Image Compression       <br> <sub><sup>*Xin Deng, Mai Xu, et al.*</sup><sub>     | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_Deep_Homography_for_Efficient_Stereo_Image_Compression_CVPR_2021_paper.pdf)/[Code](https://github.com/ywz978020607/HESIC)               |
+|   2020   | InfoSci  | Shape-optimizing mesh warping method for stereoscopic panorama stitching     <br> <sub><sup>*Weiqing Yan, Guanghui Yue, Jindong Xu, Yanwei Yu, Kai Wang, Chang Tang, Xiangrong Tong*</sup><sub>     | [Paper](https://yuyanwei.github.io/papers/weiqing2020shapeIS.pdf)/Code
+|   2020   |   TMM    | Stereoscopic Image Stitching via Disparity-Constrained Warping and Blending   <br> <sub><sup>*Xiaoting Fan, et al.*</sup><sub>        | [Paper](https://ieeexplore.ieee.org/document/8784251)/Code   |
+|   2018   | ICCASP   | A Natural Shape-Preserving Stereoscopic Image Stitching    <br> <sub><sup>*Haoqian Wang; Yaling Zhou; Xingzheng Wang; Lu Fang*</sup><sub>        | [Paper](https://ieeexplore.ieee.org/document/8461411)/Code
+|   2016   |  TCSVT   | Stereoscopic image stitching based on a hybrid warping model   <br> <sub><sup>*Yan, Weiqing and Hou, Chunping and Lei, Jianjun and Fang, Yuming and Gu, Zhouye and Ling, Nam*</sup><sub>        | [Paper](http://sim.jxufe.cn/JDMKL/pdf/Stereoscopic%20image%20stitching%20based%20on%20a%20hybrid%20warping%20model.pdf)/Code
+|   2015   |   CVPR   | Casual Stereoscopic Panorama Stitching   <br> <sub><sup>*Fan Zhang and Feng Liu*</sup><sub> | [Paper](https://pages.cs.wisc.edu/~fliu/project/stereostitch/)/Code  
+
+
+
+
+### :triangular_flag_on_post: Stitching Evaluation
+
+| **Year** | **Pub.** | **Title**                                                    | **Links**                                                    |
+| :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
+|   2020   |   TIP    | A Metric for Video Blending Quality Assessment        <br> <sub><sup>*Zhe Zhu, et al.*</sup><sub>                     | [Paper](https://ieeexplore.ieee.org/document/8917932)/Code                                                   |
 |   2019   |    MM    | Cross-Reference Stitching Quality Assessment for 360° Omnidirectional Images    <br> <sub><sup>*Jia Li, et al.*</sup><sub>    | [Paper](http://cvteam.net/papers/2019-ACMMM-Cross-Reference%20Stitching%20Quality%20Assessment%20for%20360%C2%B0%20Omnidirectional%20Images.pdf)/[Proj](http://cvteam.net/projects/MM19-CROSS/MM2019.html) |
-|   2020   |   TIP    | A Metric for Video Blending Quality Assessment        <br> <sub><sup>*Zhe Zhu, et al.*</sup><sub>                     | Paper/Code                                                   |
-|   2019   |   TIP    | <span style="white-space:nowrap;">Subjective and Objective Quality Assessment of Stitched Images for Virtual Reality&emsp; </span>    <br> <sub><sup>*Pavan C. Madhusudana, Rajiv Soundararajan*</sup><sub>   | [Paper](https://ieeexplore.ieee.org/document/8736985)/Code    |
+|   2019   |   TIP    | Subjective and Objective Quality Assessment of Stitched Images for Virtual Reality    <br> <sub><sup>*Pavan C. Madhusudana, Rajiv Soundararajan*</sup><sub>   | [Paper](https://ieeexplore.ieee.org/document/8736985)/Code    |
 
 
 
 
-#### Stitching Beyond
+### :triangular_flag_on_post: Stitching Beyond
 
 | **Year** | **Pub.** | **Title**                                                    | **Links**                                                  |
 | :------: | :------: | :----------------------------------------------------------- | :--------------------------------------------------------- |
-|   2018   |   ECCV   | <span style="white-space:nowrap;">GridFace: Face Rectification via Learning Local Homography Transformations &emsp; </span> <br> <sub><sup>*Erjin Zhou, Zhimin Cao, Jian Sun*</sup><sub>     | [Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Zhou_GridFace_Face_Rectification_ECCV_2018_paper.pdf)/Code |
+|   2021   |   PAMI   | CrossNet++: Cross-Scale Large-Parallax Warping for Reference-Based Super-Resolution | Yang Tan, et al. | [Paper](https://ieeexplore.ieee.org/document/9099445?source=tocalert&dld=Z21haWwuY29t)/Code
+|   2018   |   ECCV   | GridFace: Face Rectification via Learning Local Homography Transformations    <br> <sub><sup>*Erjin Zhou, Zhimin Cao, Jian Sun*</sup><sub>     | [Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Zhou_GridFace_Face_Rectification_ECCV_2018_paper.pdf)/Code |
 |   2020   |   PAMI   | Ambiguity-Free Radiometric Calibration for Internet Photo Collections    <br> <sub><sup>*Zhipeng Mo, Yasuyuki Matsushit, et al.*</sup><sub>      | [Paper](https://ieeexplore.ieee.org/document/8651349)/Code |
 |   2019   |   TOG    | Video Extrapolation Using Neighboring Frames                 <br> <sub><sup>*Sangwoo Lee, et al.*</sup><sub>           | [Paper](https://dl.acm.org/doi/10.1145/3196492)/Code       |
-|   2019   |   TIP    | <span style="white-space:nowrap;">Panoramic Background Image Generation for PTZ Cameras&emsp; </span>   <br> <sub><sup>*Hongwei Yong, et al.*</sup><sub>   | [Paper](https://ieeexplore.ieee.org/document/8625516)/Code                 | 
+|   2019   |   TIP    | Panoramic Background Image Generation for PTZ Cameras   <br> <sub><sup>*Hongwei Yong, et al.*</sup><sub>   | [Paper](https://ieeexplore.ieee.org/document/8625516)/Code                 | 
 
 
 
@@ -342,19 +367,6 @@ Part curated paper list for deep learning-based image matching.
 
 
 
-## Color Harmonization
-
-| **Year** | **Pub.** | **Title**                            | **Author**                         | **Links**  |
-| :------: | :------: | :----------------------------------- | :--------------------------------- | :--------- |
-|   2021   |   ICCV   | Image Harmonization With Transformer | Zonghui Guo, Dongsheng Guo, et al. | Paper/Code |
-
-
-## Low-Light Enhancement
-
-| **Year** | **Pub.** | **Title**                            | **Author**                         | **Links**  |
-| :------: | :------: | :----------------------------------- | :--------------------------------- | :--------- |
-2021 | arXiv04 | Low-Light Image and Video Enhancement Using Deep Learning: A Survey | Chongyi Li, Chen Change Loy, et al. | [Paper](https://arxiv.org/abs/2104.10729)/[Proj](https://github.com/Li-Chongyi/Lighting-the-Darkness-in-the-Deep-Learning-Era-Open) 
-
 
 ## Stabilization
 
@@ -375,12 +387,6 @@ Part curated paper list for deep learning-based image matching.
 
 
 
-## Beyond  
-
-| **Year** | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
-| :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
-2021 | arXiv10 | InfinityGAN: Towards Infinite-Pixel Image Synthesis | C. Lin, Ming-Hsuan Yang, et al. | [Paper](https://arxiv.org/abs/2104.03963)/[Code](https://hubert0527.github.io/infinityGAN/)  
-2021 | PAMI | CrossNet++: Cross-Scale Large-Parallax Warping for Reference-Based Super-Resolution | Yang Tan, et al. | [Paper](https://ieeexplore.ieee.org/document/9099445?source=tocalert&dld=Z21haWwuY29t)/Code
 
 
 ## Appendix
