@@ -158,7 +158,7 @@ A curated list of awesome resources for topics related to computational photogra
 |   2015   |   CVPR   | Adaptive As-Natural-As-Possible Image Stitching  <br> <sub><sup>*Chung-Ching Lin, S. U. Pankanti, K. N. Ramamurthy, and Aleksandr Y. Aravkin*</sup><sub> | [Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Lin_Adaptive_As-Natural-As-Possible_Image_2015_CVPR_paper.pdf)/[Code](https://github.com/YaqiLYU/AANAP)
 |   2014   |   CVPR   |  Shape-preserving half-projective warps for image stitching <br> <sub><sup>*Che-Han Chang, Yoichi Sato, Yung-Yu Chuang*</sup><sub> | [Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2014/html/Chang_Shape-Preserving_Half-Projective_Warps_2014_CVPR_paper.html)/Code
 |   2014   |   CVPR  |  Parallax-tolerant Image Stitching  <br> <sub><sup>*Fan Zhang and Feng Liu*</sup><sub>  | [Paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Zhang_Parallax-tolerant_Image_Stitching_2014_CVPR_paper.pdf)
-|   2013   |   CVPR   |  As-Projective-As-Possible Image Stitching with Moving DLT  <br> <sub><sup>*Julio Zaragoza, Tat-Jun Chin, Michael S. Brown, David Suter*</sup><sub>  | [Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Zaragoza_As-Projective-As-Possible_Image_Stitching_2013_CVPR_paper.pdf)/[Code](https://cs.adelaide.edu.au/~tjchin/apap/)<br>[Ext](https://ieeexplore.ieee.org/document/6682890) |
+|   2013   |   CVPR   |  As-Projective-As-Possible Image Stitching with Moving DLT  <br> <sub><sup>*Julio Zaragoza, Tat-Jun Chin, Michael S. Brown, David Suter*</sup><sub>  | [Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Zaragoza_As-Projective-As-Possible_Image_Stitching_2013_CVPR_paper.pdf)/[Code](https://cs.adelaide.edu.au/~tjchin/apap/)<br>[Ext](https://ieeexplore.ieee.org/document/6682890)/[C++](https://github.com/egoist-sx/AsProjectiveAsPossible) |
 |   2013   |  EG | Seam-Driven Image Stitching   <br> <sub><sup>*Junhong Gao, Yu Li, Tat-Jun Chin, Michael S. Brown*</sup><sub>  |  [Paper](https://yu-li.github.io/paper/eg13_stitching.pdf)/Code
 |   2012   |   TOG    | Panorama weaving: fast and flexible seam processing      <br> <sub><sup>*Brian Summa, et al.*</sup><sub>           | [Paper](http://www.sci.utah.edu/~bsumma/projects/weaving/index.html)/[Proj](http://www.sci.utah.edu/~bsumma/projects/weaving/index.html) |
 |   2011   | CVPR  | Smoothly varying affine stitching   <br> <sub><sup>*Wen-Yan Lin, Siying Liu, Y Matsushita, Tian-Tsong Ng, Loong-Fah Cheong*</sup><sub>  | [Paper](https://ieeexplore.ieee.org/document/5995314)/[Code](https://sites.google.com/site/laoszefei81/home/code-1/code-for-smoothly-varying-affine-stitching)
@@ -418,6 +418,7 @@ Part curated paper list for deep learning-based image matching.
 ## Appendix
 
 - [Awesome Image Alignment and Stitching](https://github.com/tzxiang/awesome-image-alignment-and-stitching)
+- [OpenPano](https://github.com/ppwwyyxx/OpenPano)
 
 
 
