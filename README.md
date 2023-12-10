@@ -180,7 +180,7 @@ A curated list of awesome resources for topics related to computational photogra
 |  2018   |   TIP    | Dynamic Video Stitching via Shakiness Removing               <br> <sub><sup>*Yongwei Nie, et al.*</sup><sub>               | [Paper](https://ieeexplore.ieee.org/document/8003352)/[Code](https://github.com/SuTanTank/VideoStitchingViaShakinessRemoving) |
 |  2016   |   TOG    | Jump: Virtual reality video        <br> <sub><sup>*Robert Anderson, et al.*</sup><sub>      | [Paper](https://dl.acm.org/doi/pdf/10.1145/2980179.2980257)/Code        |
 |  2016   |   TIP    | Joint Video Stitching and Stabilization From Moving Cameras   <br> <sub><sup>*Heng Guo, Shuaicheng Liu, Tong He, Shuyuan Zhu, Bing Zeng, Moncef Gabbouj*</sup><sub>  | [Paper](http://www.liushuaicheng.org/TIP/VideoStitching2016/tip16.pdf)/[Proj](http://www.liushuaicheng.org/TIP/VideoStitching2016/index.html)/[Data](http://www.liushuaicheng.org/TIP/VideoStitching2016/index.html)
-|  2016   |   CGF    | Seamless Video Stitching from Hand-held Camera Inputs   <br> <sub><sup>*Kaimo Lin, Shuaicheng Liu, Loong-Fah Cheong, Bing Zeng*</sup><sub>  | [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12848)/Code
+|  2016   |   CGF    | Seamless Video Stitching from Hand-held Camera Inputs   <br> <sub><sup>*Kaimo Lin, Shuaicheng Liu, Loong-Fah Cheong, Bing Zeng*</sup><sub>  | [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12848)/[Data](https://drive.google.com/drive/folders/11ymZ2VAHE3FS-QKDMn_TIv6Mq_Ky5X52?usp=sharing)
 
 
 
