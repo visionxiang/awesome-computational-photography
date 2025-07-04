@@ -33,6 +33,29 @@ A curated list of awesome resources for topics related to computational photogra
 ### :triangular_flag_on_post: Image Stitching
 <span id="image-stitching"></span>
 
+
+
+**2025** 
+
+| **Year** | **Pub.** | **Title**       | **Links**                |
+| :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
+|   2025   |   CVPR | Tiled Diffusion   <br> <sub><sup>*Or Madar, Ohad Fried*</sup></sub>  | [Paper](https://arxiv.org/abs/2412.15185)/[Code](https://madaror.github.io/tiled-diffusion.github.io/)
+|   2025   |   AAAI | Object-level Geometric Structure Preserving for Natural Image Stitching   <br> <sub><sup>*Wenxiao Cai, Wankou Yang*</sup></sub>  | [Paper](https://arxiv.org/abs/2402.12677)/[Code](https://github.com/RussRobin/OBJ-GSP)
+
+
+
+**2024** 
+
+| **Year** | **Pub.** | **Title**       | **Links**                |
+| :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
+|   2024   |  CVPR  | RecDiffusion: Rectangling for Image Stitching with Diffusion Models   <br> <sub><sup>*Tianhao Zhou, Haipeng Li, Ziyi Wang, Ao Luo, Chen-Lin Zhang, Jiajun Li, Bing Zeng, Shuaicheng Liu*</sup></sub>  | [Paper](https://arxiv.org/abs/2403.19164)/[Code](https://github.com/lhaippp/RecDiffusion)
+|   2024   | SIGGRAPH Asia | VidPanos: Generative Panoramic Videos from Casual Panning Videos   <br> <sub><sup>*Jingwei Ma, Erika Lu, Roni Paiss, Shiran Zada, Aleksander Holynski, Tali Dekel, Brian Curless, Michael Rubinstein, Forrester Cole*</sup></sub>  | [Paper](https://arxiv.org/abs/2410.13832)/[Proj](https://vidpanos.github.io/)
+
+
+
+
+
+
 **2023**
 
 | **Year** | **Pub.** | **Title**       | **Links**                |
