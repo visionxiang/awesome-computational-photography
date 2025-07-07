@@ -48,6 +48,7 @@ A curated list of awesome resources for topics related to computational photogra
 
 | **Year** | **Pub.** | **Title**       | **Links**                |
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
+|   2024   |   MM    | OmniStitch: Depth-Aware Stitching Framework for Omnidirectional Vision with Multiple Cameras    <br> <sub><sup>*Sooho Kim, Soyeon Hong, Kyungsoo Park, Hyunsouk Cho, Kyung-Ah Sohn*</sup></sub>  | [Paper](https://dl.acm.org/doi/10.1145/3664647.3681208)/[Code](https://github.com/tngh5004/Omnistitch)
 |   2024   |  CVPR  | RecDiffusion: Rectangling for Image Stitching with Diffusion Models   <br> <sub><sup>*Tianhao Zhou, Haipeng Li, Ziyi Wang, Ao Luo, Chen-Lin Zhang, Jiajun Li, Bing Zeng, Shuaicheng Liu*</sup></sub>  | [Paper](https://arxiv.org/abs/2403.19164)/[Code](https://github.com/lhaippp/RecDiffusion)
 |   2024   | SIGGRAPH Asia | VidPanos: Generative Panoramic Videos from Casual Panning Videos   <br> <sub><sup>*Jingwei Ma, Erika Lu, Roni Paiss, Shiran Zada, Aleksander Holynski, Tali Dekel, Brian Curless, Michael Rubinstein, Forrester Cole*</sup></sub>  | [Paper](https://arxiv.org/abs/2410.13832)/[Proj](https://vidpanos.github.io/)
 
